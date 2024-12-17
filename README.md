@@ -2,6 +2,8 @@
 
 ![CI](https://github.com/MarusinaAnn/js-anim/actions/workflows/web.yml/badge.svg)
 
+https://marusinaann.github.io/js-anim/
+
 Правила сдачи задания:
 
 1. **Важно**: в рамках этого ДЗ можно использовать любой менеджер пакетов
